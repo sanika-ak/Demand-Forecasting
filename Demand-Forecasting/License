@@ -1,0 +1,12 @@
+
+---
+
+### 🔹 `requirements.txt`
+(Extracted from your notebook’s imports — we can refine after checking your notebook fully.)
+```txt
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+jupyter
